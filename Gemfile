@@ -73,4 +73,5 @@ group :test do
   gem "guard",                    "2.18.0"
   gem "guard-minitest",           "2.4.6"
   gem 'wdm', '>= 0.1.0'
+  gem 'minitest-reporters', '~> 1.1', '>= 1.1.11'
 end
